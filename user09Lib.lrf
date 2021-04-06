@@ -1,0 +1,10 @@
+-out:user09Lib.dll
+-def:user09Libex.def
+-dll
+-machine:X64
+-map
+-manifest:embed
+-defaultlib:ANSYS.lib
+-defaultlib:ansMemManager.lib
+ 
+*.obj
